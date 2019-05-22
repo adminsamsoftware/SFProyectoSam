@@ -30,9 +30,6 @@
         {
             this.SuspendLayout();
             // 
-            // btnClose
-            // 
-            // 
             // frmUsuario
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
