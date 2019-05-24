@@ -111,19 +111,10 @@
     <EmbeddedResource Include="frmDiseñoWindowsModales.resx">
       <DependentUpon>frmDiseñoWindowsModales.cs</DependentUpon>
     </EmbeddedResource>
-<<<<<<< HEAD
-    <EmbeddedResource Include="frmlistadoPersona.resx">
-      <DependentUpon>frmlistadoPersona.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmModal.resx">
-      <DependentUpon>frmModal.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmRegistrarDireccionNueva.resx">
-      <DependentUpon>frmRegistrarDireccionNueva.cs</DependentUpon>
-=======
+
     <EmbeddedResource Include="frmMDIMain.resx">
       <DependentUpon>frmMDIMain.cs</DependentUpon>
->>>>>>> origin/master
+
     </EmbeddedResource>
     <EmbeddedResource Include="frmUsuario.resx">
       <DependentUpon>frmUsuario.cs</DependentUpon>
