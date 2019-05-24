@@ -111,6 +111,7 @@
     <EmbeddedResource Include="frmDiseñoWindowsModales.resx">
       <DependentUpon>frmDiseñoWindowsModales.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
     <EmbeddedResource Include="frmlistadoPersona.resx">
       <DependentUpon>frmlistadoPersona.cs</DependentUpon>
     </EmbeddedResource>
@@ -119,6 +120,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmRegistrarDireccionNueva.resx">
       <DependentUpon>frmRegistrarDireccionNueva.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="frmMDIMain.resx">
+      <DependentUpon>frmMDIMain.cs</DependentUpon>
+>>>>>>> origin/master
     </EmbeddedResource>
     <EmbeddedResource Include="frmUsuario.resx">
       <DependentUpon>frmUsuario.cs</DependentUpon>
@@ -150,6 +155,28 @@
       <Project>{0e17f77a-c78b-485f-9914-7ec886ac7fe7}</Project>
       <Name>Controllers</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="imagenAplicacion\caja26.png" />
+    <Content Include="imagenAplicacion\caja48.png" />
+    <Content Include="imagenAplicacion\catastro26.png" />
+    <Content Include="imagenAplicacion\compress_16px.png" />
+    <Content Include="imagenAplicacion\desiciones26.png" />
+    <Content Include="imagenAplicacion\exit1-20.png" />
+    <Content Include="imagenAplicacion\exit16.png" />
+    <Content Include="imagenAplicacion\exit24.png" />
+    <Content Include="imagenAplicacion\maximizar16.png" />
+    <Content Include="imagenAplicacion\Maximize-WF2-20.png" />
+    <Content Include="imagenAplicacion\menu26.png" />
+    <Content Include="imagenAplicacion\minimize1-20.png" />
+    <Content Include="imagenAplicacion\minimize2-20.png" />
+    <Content Include="imagenAplicacion\minizar16.png" />
+    <Content Include="imagenAplicacion\normalFrm1-20.png" />
+    <Content Include="imagenAplicacion\rentas26.png" />
+    <Content Include="imagenAplicacion\rentas48.png" />
+    <Content Include="imagenAplicacion\rentas_2_48.png" />
+    <Content Include="imagenAplicacion\sistemas26.png" />
+    <Content Include="imagenAplicacion\transito26.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
