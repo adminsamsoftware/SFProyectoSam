@@ -1,0 +1,10 @@
+E:\DATA\SFProyectoSam\Models\bin\Debug\Models.dll.config
+E:\DATA\SFProyectoSam\Models\bin\Debug\Models.dll
+E:\DATA\SFProyectoSam\Models\bin\Debug\Models.pdb
+E:\DATA\SFProyectoSam\Models\bin\Debug\Entity.dll
+E:\DATA\SFProyectoSam\Models\bin\Debug\Entity.pdb
+E:\DATA\SFProyectoSam\Models\obj\Debug\Models.csprojAssemblyReference.cache
+E:\DATA\SFProyectoSam\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+E:\DATA\SFProyectoSam\Models\obj\Debug\Models.csproj.CopyComplete
+E:\DATA\SFProyectoSam\Models\obj\Debug\Models.dll
+E:\DATA\SFProyectoSam\Models\obj\Debug\Models.pdb

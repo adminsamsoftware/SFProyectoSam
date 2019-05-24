@@ -10,21 +10,17 @@ using System.Windows.Forms;
 
 namespace Views
 {
-    public partial class frmDiseñoWindowsModales : Form
+    public partial class frmlistadoPersona : Form
     {
-        public frmDiseñoWindowsModales()
+        public frmlistadoPersona()
         {
             InitializeComponent();
         }
 
-        private void Button1_Click(object sender, EventArgs e)
+        private void BtnNuevoRegistro_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void Button2_Click(object sender, EventArgs e)
-        {
-            this.Close();
+            var modal = new frmModal();
+            modal.Show();
         }
     }
 }

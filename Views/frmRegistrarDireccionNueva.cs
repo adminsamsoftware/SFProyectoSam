@@ -10,19 +10,14 @@ using System.Windows.Forms;
 
 namespace Views
 {
-    public partial class frmDiseñoWindowsModales : Form
+    public partial class frmRegistrarDireccionNueva : Form
     {
-        public frmDiseñoWindowsModales()
+        public frmRegistrarDireccionNueva()
         {
             InitializeComponent();
         }
 
-        private void Button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Button2_Click(object sender, EventArgs e)
+        private void PictureBox1_Click(object sender, EventArgs e)
         {
             this.Close();
         }

@@ -1,0 +1,10 @@
+E:\DATA\SFProyectoSam\Controllers\bin\Debug\Controllers.dll
+E:\DATA\SFProyectoSam\Controllers\bin\Debug\Controllers.pdb
+E:\DATA\SFProyectoSam\Controllers\bin\Debug\Models.dll
+E:\DATA\SFProyectoSam\Controllers\bin\Debug\Models.pdb
+E:\DATA\SFProyectoSam\Controllers\bin\Debug\Models.dll.config
+E:\DATA\SFProyectoSam\Controllers\obj\Debug\Controllers.csprojAssemblyReference.cache
+E:\DATA\SFProyectoSam\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+E:\DATA\SFProyectoSam\Controllers\obj\Debug\Controllers.csproj.CopyComplete
+E:\DATA\SFProyectoSam\Controllers\obj\Debug\Controllers.dll
+E:\DATA\SFProyectoSam\Controllers\obj\Debug\Controllers.pdb
