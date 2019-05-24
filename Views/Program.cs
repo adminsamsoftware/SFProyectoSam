@@ -16,11 +16,7 @@ namespace Views
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-<<<<<<< HEAD
-            Application.Run(new frmlistadoPersona());
-=======
             Application.Run(new frmMDIMain());
->>>>>>> origin/master
         }
     }
 }
