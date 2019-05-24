@@ -37,3 +37,7 @@ E:\DATA\SFProyectoSam\Views\obj\Debug\Views.csproj.GenerateResource.cache
 E:\DATA\SFProyectoSam\Views\obj\Debug\Views.csproj.CoreCompileInputs.cache
 E:\DATA\SFProyectoSam\Views\obj\Debug\Views.exe
 E:\DATA\SFProyectoSam\Views\obj\Debug\Views.pdb
+E:\proyect\SFProyectoSam\Views\bin\Debug\Controllers.dll
+E:\proyect\SFProyectoSam\Views\bin\Debug\Controllers.pdb
+E:\proyect\SFProyectoSam\Views\obj\Debug\Views.frmMDIMain.resources
+E:\proyect\SFProyectoSam\Views\obj\Debug\Views.csproj.CopyComplete

@@ -1,0 +1,6 @@
+E:\proyect\SFProyectoSam\Entity\bin\Debug\Entity.dll
+E:\proyect\SFProyectoSam\Entity\bin\Debug\Entity.pdb
+E:\proyect\SFProyectoSam\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+E:\proyect\SFProyectoSam\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\proyect\SFProyectoSam\Entity\obj\Debug\Entity.dll
+E:\proyect\SFProyectoSam\Entity\obj\Debug\Entity.pdb
